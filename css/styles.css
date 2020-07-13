@@ -42,7 +42,7 @@ ul, h2 {
 }
 
 li {
-  padding: 10px 0;
+  padding: 10px 10px;
 }
 
 img {
@@ -85,10 +85,13 @@ img {
   padding-left: 20px;
 }
 
-.mobile-footer h3 {
+.mobile-footer-name {
 
-  display: inline-block;
-  padding: 0 40px;
+  float: left;
+}
+
+.mobile-footer-btt {
+  float: right;
 }
 
 .footer-nav {
