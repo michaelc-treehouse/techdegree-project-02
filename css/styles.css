@@ -29,7 +29,6 @@ a {
   text-decoration: none;
 }
 
-
 ul {
   list-style-type: none;
   font-weight: bold;
@@ -60,12 +59,10 @@ img {
   clear: both;
 }
 
-
 .main-nav {
   margin: 0;
   padding: 0;
   text-align: center;
-  
 }
 
 .main-nav li {
@@ -98,10 +95,6 @@ img {
   display: none;
 }
 
-
-
-
-
 /* =================================
   Media Queries
 ==================================== */
@@ -117,7 +110,6 @@ img {
     margin: 0;
     float: right;
     padding: 20px 0 0 0;
-    
   }
 
   .bio p {
